@@ -102,7 +102,7 @@ public class Principal {
 		
 		//Cesta
 		c3.getCesta().add(estuche1);
-		/*c3.getCesta().add(estuche1);
+		c3.getCesta().add(estuche1);
 		c3.getCesta().add(estuche1);
 		c3.getCesta().add(boligrafo1);
 		c3.getCesta().add(boligrafo1);
@@ -113,7 +113,6 @@ public class Principal {
 		c3.getCesta().add(boligrafo2);
 		c3.getCesta().add(boligrafo2);
 		c3.getCesta().add(boligrafo2);
-		*/
 		c2.getCesta().add(libro2);
 		c2.getCesta().add(libro1);
 		
