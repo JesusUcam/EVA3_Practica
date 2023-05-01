@@ -46,7 +46,7 @@ public class Cliente {
 		this.nombre = nombre;
 		this.telefono = telefono;
 		
-		cesta = new ArrayList<Producto>();
+		this.cesta = new ArrayList<Producto>();
 		
 	}
 	@Override
